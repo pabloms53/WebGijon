@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+body{
+    background-color:#494A45;
+    color:white;
+    font-family:sans-serif;
+    margin:0 7%;
+}
+
+p{
+    text-align:justify;
+}
+
+h1{
+    color:yellow;
+    font-family:Pacifico;
+    text-align:center;
+    text-transform:uppercase;
+    font-size:4em;
+}
+
+img{
+    width:100%;
+}
+h2{
+    color:#4DDE6D;
+    font-family:Pacifico;
+    text-transform:uppercase;
+    background-color:#E3DEDD;
+    padding:7px;
+}
+
+h3{
+    color:#BF8D41;
+    font-family:Pacifico;
+    text-transform:uppercase;
+    padding:7px;
+}
+
+p{
+    text-indent:10px;
+}
+
+strong{
+    color:aquamarine;
+}
+
+a:link{
+    color:pink;
+}
+
+a:visited{
+    color:rgb(69, 130, 187);
+}
+
+a:hover{
+    font-size:1.4em;
+}
+
+a:active{
+    text-transform:uppercase;
+    font-size:1.4em;
+}
+
+ul{
+    list-style-type: square;
+}
+
+abbr{
+    color:pink;
+}
+
+img{
+    width:200px;
+}
+
+thead{
+    background-color:white;
+    color:black;
+}
+
+th{
+    padding:15px;
+    text-transform:uppercase;
+    font-size:1.2em;
+}
+td{
+    text-align:center;
+    font-size:1.2em;
+    padding:7px;
+}
+
+th.a{
+background-color:rgb(173, 173, 173);
+color:black;
+}
+
+th.b{
+    background-color:rgb(133, 108, 108);
+    color:black;
+}
+
+th.c{
+    background-color:rgb(238, 115, 135);
+    color:black;
+}
+
+th.d{
+    background-color:rgb(63, 42, 42);
+    color:white;
+}
+
+td.a{
+    background-color:rgb(173, 173, 173);
+    color:black;
+}
+
+td.b{
+    background-color:rgb(133, 108, 108);
+    color:black;
+}
+
+td.c{
+    background-color:rgb(238, 115, 135);
+    color:black;
+}
+
+td.d{
+    background-color:rgb(63, 42, 42);
+    color:white;
+}
+
+
